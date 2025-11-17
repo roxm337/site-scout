@@ -63,7 +63,7 @@ pip install -r requirements.txt
 - Service banner parsing for frameworks and middleware hints.
 - Integration with project-specific data stores for syncing results.
 
-@roxm337
+### @roxm337
 
 ## Disclaimer
 
