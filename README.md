@@ -46,6 +46,16 @@ pip install -r requirements.txt
 3. Feed successful hosts into follow-up tooling (e.g., Nmap, HTTP screenshotters, web tech fingerprinting) to accelerate recon workflows.
 4. Consider pairing with subdomain enumeration tools and wordlists to build a more complete attack surface map.
 
+## Screenshots
+
+### Main Menu
+![Main Menu](screens/1.png)
+*Interactive menu showing available data sources*
+
+### Enrichment Mode Output
+![Enrichment Output](screens/2.png)
+*Example of enriched domain data with HTTP details*
+
 ## Roadmap Ideas
 
 - CLI argument support for non-interactive runs.
